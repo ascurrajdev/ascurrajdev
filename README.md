@@ -1,5 +1,5 @@
 - 👋 Hola, soy @ascurrajdev
-- 💻 ⌨️ Trabajo como Dev. Backend, me gusta usar mucho PHP y Java
+- 💻 ⌨️ Trabajo como Dev. Backend, me gusta usar Laravel, Spring, entre otros
 - 🎾 Me gusta el tenis , el futbol y el villar ⚽️ 🎱
 - 🔭 🔬 Y por supuesto realizar proyectos de todo tipo que ayuden al ecosistema tecnologico del entorno 🚀
 <!---
